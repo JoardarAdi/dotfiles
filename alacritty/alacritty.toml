@@ -1,0 +1,19 @@
+general.import = [
+	"~/.config/alacritty/alacritty-themes/themes/autumn.toml"
+]
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 12
+padding.y = 10
+
+decorations = "Buttonless"
+
+opacity = 0.8
+blur = true
+
+[font]
+normal.family = "MesloLGS Nerd Font Mono"
+size = 12
